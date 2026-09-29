@@ -1,0 +1,6 @@
+{
+  "name": "TERRAIN-X — 3D Terrain & Disaster Impact Platform",
+  "description": "Single aerial RGB image to calibrated 3D terrain reconstruction, edge-aware DSM generation, confidence mapping, and elevation-based flood impact simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
